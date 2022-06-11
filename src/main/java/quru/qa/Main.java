@@ -32,5 +32,6 @@ public class Main {
         System.out.println(--aShort); //
         System.out.println("long + int = " + (aLong+a));
         System.out.println("long - int = " + (aLong-d));
+
     }
 }
